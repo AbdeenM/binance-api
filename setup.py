@@ -11,7 +11,7 @@ setuptools.setup(
     description='A python library that implements the Binance Exchange REST API and Web socket communication.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/AbdeenM/binance-spot',
+    url='https://github.com/AbdeenM/binance-api',
     packages=setuptools.find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
