@@ -4,8 +4,8 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='binance-spot',
-    version='0.0.1',
+    name='solo-binance-api',
+    version='0.1.0',
     author='Abdeen Mohamed, Tarun ',
     author_email='abdeen.mohamed@outlook.com, ',
     description='A python library that implements the Binance Exchange REST API and Web socket communication.',

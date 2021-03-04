@@ -28,8 +28,6 @@ subscription_client = SubscriptionClient(
     api_key=API_KEY, secret_key=SECRET_KEY)
 
 # Defining callback function and error function for socket subscriptions
-
-
 def callback(data_type: 'SubscribeMessageType', event: 'any'):
     if data_type == SubscribeMessageType.RESPONSE:
         print('Event ID: ', event)
