@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='solo-binance-api',
-    version='0.1.1',
+    version='0.1.2',
     author='Abdeen Mohamed, Tarun ',
     author_email='abdeen.mohamed@outlook.com, ',
     description='A python library that implements the Binance Exchange REST API and Web socket communication.',
