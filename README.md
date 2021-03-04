@@ -8,13 +8,13 @@ A python library that implements the Binance Exchange REST API and Web socket co
 ## Installation
 
 ```Bash
-$ pip install binance-api
+$ pip install solo-binance-api
 ```
 
 You can uninstall the library anytime by running:
 
 ```Bash
-$ pip uninstall -y algorithms
+$ pip uninstall -y solo-binance-api
 ```
 
 ## Getting Started
